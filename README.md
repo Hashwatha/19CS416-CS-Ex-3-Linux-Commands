@@ -1,4 +1,25 @@
-# 19CS416-CS-Ex-3-Linux-Commands
+# 19CS416-CS-Ex-3 (a- c) 
+## 3a - Oracle virtual box
+## Procedure:
+1. Visit the Official Website: Go to https://www.virtualbox.org/ to find the official download page.
+2. Select Your Operating System: Choose the version that matches your operating system (Windows, macOS, or Linux).
+3. Download the Installer: Click the appropriate link to download the installer for your system (e.g., .exe for Windows, .dmg for macOS).
+4. Run the Installer: Once the file is downloaded, open it and follow the on-screen instructions to complete the installation.
+5. Optional Extension Pack: After installation, you can download and install the Extension Pack for additional features, like USB support and RDP.
+## Output :
+![WhatsApp Image 2025-04-13 at 1 44 44 PM](https://github.com/user-attachments/assets/f21c52c7-9e83-4668-9216-b30030dd6b80)
+
+## 3b - kalli linux
+## Procedure
+1. Download Kali Linux ISO Image
+2. Create a Bootable USB Drive
+3. Boot from USB
+4. Install Kali Linux
+5. Complete Installation
+## Output :
+![WhatsApp Image 2025-03-26 at 2 19 03 PM](https://github.com/user-attachments/assets/d7195118-43a8-41b9-b41b-dd94d5c0a4a8)
+
+## 3c - Linux-Commands
 
 **Linux** is an open-source operating system, and its kernel is the heart of the OS, facilitating communication between hardware and software. One of the key advantages of Linux is its customizability; developers can modify the Linux kernel to create their own tailored operating systems.
 
@@ -338,3 +359,4 @@ find <directory> -name <file_name>
 **Output:**
 
 ## Result
+Thus, The installation of Oracle Virtual Box and Kalli linux And LINUX COMMANDS are executed Sucessfully.
