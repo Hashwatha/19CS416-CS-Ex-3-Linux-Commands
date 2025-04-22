@@ -37,6 +37,7 @@ ls
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/5c690a2d-ef31-4976-9b80-1bd3445f290b)
 
 ### 2. `pwd` Command
 
@@ -48,6 +49,7 @@ pwd
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/a589a030-4a33-4887-aee7-ab5380a75f58)
 
 ### 3. `mkdir` Command
 
@@ -59,6 +61,7 @@ mkdir <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/ea214773-4bdd-4515-8750-c854a6a10d55)
 
 ### 4. `rmdir` Command
 
@@ -70,6 +73,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/4be58386-4558-49cf-8978-545761e93adb)
 
 ### 5. `cd` Command
 
@@ -81,6 +85,7 @@ cd <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/6c61f034-7636-44e6-9286-21a383b98e04)
 
 ### 6. `cat` Command
 
@@ -92,6 +97,7 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/68a90656-c57e-4ee1-9707-05bf9217407c)
 
 ### 7. `cp` Command
 
@@ -103,6 +109,7 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/3d884603-28d0-460a-99d4-ccd67d6a560a)
 
 ### 8. `gedit` Command
 
@@ -114,6 +121,7 @@ gedit <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/b782d9a4-f370-461e-b477-bead0b7d65c4)
 
 ### 9. `su` Command
 
@@ -125,6 +133,7 @@ su <username>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/73afb89f-1076-408a-b4ed-0a340c4e0703)
 
 ### 10. `mv` Command
 
@@ -136,6 +145,7 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/ee622fab-4f9e-4b0b-8d18-8931e9400afc)
 
 ### 11. `rename` Command
 
@@ -147,6 +157,7 @@ rename 's/old-name/new-name/' <files>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/213c0b4f-bcf9-49ab-bb3c-ab0ed91a2e5a)
 
 ### 12. `head` Command
 
@@ -158,6 +169,7 @@ head <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/07ca0d82-a4fd-4d1b-a461-dfcc10f740f0)
 
 ### 13. `tail` Command
 
@@ -169,6 +181,7 @@ tail <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/61b3156e-cb92-4d6e-9518-d87459073f85)
 
 ### 14. `id` Command
 
@@ -180,6 +193,7 @@ id
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/dd7dfb19-5f10-406b-a7e7-a1efefbdbb17)
 
 ### 15. `grep` Command
 
@@ -191,6 +205,7 @@ command | grep <search_word>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/fbc2ea00-f3bd-4efa-9779-326a8060f3f6)
 
 ### 16. `tr` Command
 
