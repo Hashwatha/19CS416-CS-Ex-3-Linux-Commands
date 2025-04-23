@@ -217,6 +217,7 @@ command | tr <old> <new>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/23ad6ee3-3cb2-4c10-ab30-ef183076d865)
 
 ### 17. `chmod` Command
 
@@ -228,6 +229,7 @@ chmod <options> <permissions> <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/736f26db-7c0a-4688-a13a-2f47a1f9fd70)
 
 ### 18. `tar` Command
 
@@ -239,6 +241,7 @@ tar [options] [archive-file] [files_to_archive]
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/2e3e2f83-3ce3-4c71-a25d-670056470ff5)
 
 ### 19. `chown` Command
 
@@ -250,6 +253,7 @@ chown <owner_name> <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/20a51b4a-7dc9-4663-ae1f-9e06598d5659)
 
 ### 20. `make` Command
 
@@ -262,6 +266,8 @@ make [-f makefile] [options] [targets]
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/303f8a25-bc2e-4fb6-92a9-895a9b42d270)
+
 ### 21. `ifconfig` Command
 
 The `ifconfig` command is used to configure network interfaces.
@@ -272,6 +278,8 @@ ifconfig [options] [interface]
 ```
 
 **Output:**
+
+![image](https://github.com/user-attachments/assets/f5a83b4a-712b-4337-b4e2-1509d2350bb1)
 
 ### 22. `chmod 777` Command
 
@@ -285,6 +293,8 @@ chmod -R 777 /path/to/file/or/folder
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/77b91167-246c-4416-a7ee-5aa3514260c2)
+
 ### 23. `host` Command
 
 The `host` command is used to display the IP address for a given domain name.
@@ -295,6 +305,8 @@ host <domain_name> or <ip_address>
 ```
 
 **Output:**
+
+![image](https://github.com/user-attachments/assets/d23efdb7-d8d4-41f0-b081-93ff25dfe89e)
 
 ### 24. `gzip` Command
 
@@ -307,6 +319,8 @@ gzip <file1> <file2> <file3>...
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/c9a96960-2e76-4bf7-8180-ba457ff623a7)
+
 ### 25. `sort` Command
 
 The `sort` command is used to sort the contents of a file alphabetically.
@@ -317,6 +331,8 @@ sort <file_name>
 ```
 
 **Output:**
+
+![image](https://github.com/user-attachments/assets/196cc7a1-2086-478c-9bec-e6532b61a0f2)
 
 ### 26. `cal` Command
 
@@ -329,6 +345,8 @@ cal
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/1ad3ed82-b23d-4a70-9c9a-ede97d0b9d59)
+
 ### 27. `clear` Command
 
 The `clear` command clears the terminal screen.
@@ -339,6 +357,8 @@ clear
 ```
 
 **Output:**
+
+![image](https://github.com/user-attachments/assets/8113f059-8720-47e8-927d-bba8879e118c)
 
 ### 28. `mail` Command
 
@@ -351,6 +371,8 @@ mail
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/34ddfa5b-7d5f-4518-a794-6e99ef98a11f)
+
 ### 29. `df` Command
 
 The `df` command displays the disk space usage of file systems.
@@ -361,6 +383,8 @@ df
 ```
 
 **Output:**
+
+![image](https://github.com/user-attachments/assets/b5dddc8d-33e2-4f0b-98ff-0281ef5803a0)
 
 ### 30. `find` Command
 
@@ -373,5 +397,7 @@ find <directory> -name <file_name>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/63fac45d-8f71-41cb-9444-4be03b8098d1)
+
 ## Result
-Thus, The installation of Oracle Virtual Box and Kalli linux And LINUX COMMANDS are executed Sucessfully.
+Successfully performed the series of Linux commands as specified.
